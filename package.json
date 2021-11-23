@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kragada/WebDemo.git"
+    "url": "git+https://github.com/Svante-J/WebDemo-main.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kragada/WebDemo/issues"
+    "url": "https://github.com/Svante-J/WebDemo-main/issues"
   },
-  "homepage": "https://github.com/Kragada/WebDemo#readme"
+  "homepage": "https://github.com/Svante-j/WebDemo-main#readme"
 }
